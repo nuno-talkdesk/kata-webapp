@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kata-webapp/static/css/main.15cc8519.chunk.css",
+    "main.js": "/kata-webapp/static/js/main.95156e7d.chunk.js",
+    "main.js.map": "/kata-webapp/static/js/main.95156e7d.chunk.js.map",
+    "runtime-main.js": "/kata-webapp/static/js/runtime-main.62a8ebdd.js",
+    "runtime-main.js.map": "/kata-webapp/static/js/runtime-main.62a8ebdd.js.map",
+    "static/js/2.7a5c50b9.chunk.js": "/kata-webapp/static/js/2.7a5c50b9.chunk.js",
+    "static/js/2.7a5c50b9.chunk.js.map": "/kata-webapp/static/js/2.7a5c50b9.chunk.js.map",
+    "index.html": "/kata-webapp/index.html",
+    "precache-manifest.4b05d85697cc33cb53b817ba3121d531.js": "/kata-webapp/precache-manifest.4b05d85697cc33cb53b817ba3121d531.js",
+    "service-worker.js": "/kata-webapp/service-worker.js",
+    "static/css/main.15cc8519.chunk.css.map": "/kata-webapp/static/css/main.15cc8519.chunk.css.map",
+    "static/js/2.7a5c50b9.chunk.js.LICENSE.txt": "/kata-webapp/static/js/2.7a5c50b9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kata-webapp/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/kata-webapp/static/media/nepal-in-pictures-beautiful-places-to-photograph-annapurna-range.174d6240.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a8ebdd.js",
+    "static/js/2.7a5c50b9.chunk.js",
+    "static/css/main.15cc8519.chunk.css",
+    "static/js/main.95156e7d.chunk.js"
+  ]
+}
